@@ -1,0 +1,13 @@
+C:\Users\artik\source\repos\HASH1\HASH1\bin\Debug\netcoreapp3.1\HASH1.exe
+C:\Users\artik\source\repos\HASH1\HASH1\bin\Debug\netcoreapp3.1\HASH1.deps.json
+C:\Users\artik\source\repos\HASH1\HASH1\bin\Debug\netcoreapp3.1\HASH1.runtimeconfig.json
+C:\Users\artik\source\repos\HASH1\HASH1\bin\Debug\netcoreapp3.1\HASH1.runtimeconfig.dev.json
+C:\Users\artik\source\repos\HASH1\HASH1\bin\Debug\netcoreapp3.1\HASH1.dll
+C:\Users\artik\source\repos\HASH1\HASH1\bin\Debug\netcoreapp3.1\HASH1.pdb
+C:\Users\artik\source\repos\HASH1\HASH1\obj\Debug\netcoreapp3.1\HASH1.csprojAssemblyReference.cache
+C:\Users\artik\source\repos\HASH1\HASH1\obj\Debug\netcoreapp3.1\HASH1.AssemblyInfoInputs.cache
+C:\Users\artik\source\repos\HASH1\HASH1\obj\Debug\netcoreapp3.1\HASH1.AssemblyInfo.cs
+C:\Users\artik\source\repos\HASH1\HASH1\obj\Debug\netcoreapp3.1\HASH1.csproj.CoreCompileInputs.cache
+C:\Users\artik\source\repos\HASH1\HASH1\obj\Debug\netcoreapp3.1\HASH1.dll
+C:\Users\artik\source\repos\HASH1\HASH1\obj\Debug\netcoreapp3.1\HASH1.pdb
+C:\Users\artik\source\repos\HASH1\HASH1\obj\Debug\netcoreapp3.1\HASH1.genruntimeconfig.cache
